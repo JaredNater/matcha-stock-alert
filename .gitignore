@@ -1,3 +1,10 @@
 __pycache__/
-*.pkl
+*.pyc
+*.pyo
+*.pyd
 .env
+venv/
+.env.*
+*.sqlite3
+.DS_Store
+subscribers.txt
